@@ -6,8 +6,6 @@ excerpt: This is a fun thing to do
 comments: true
 ---
 
-<div class="alert alert-info">
-<strong>Update 15.05.2017</strong>
   ⠀⠀⠀⠀⣀⣤
 ⠀⠀⠀⠀⣿⠿⣶
 ⠀⠀⠀⠀⣿⣿⣀
